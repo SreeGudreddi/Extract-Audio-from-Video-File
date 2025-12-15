@@ -128,8 +128,4 @@ python extract_audio.py --input interview.mp4 --output interview.wav --sample_ra
 This project is intended for research and educational purposes.
 Add a license file as appropriate.
 
----
 
-
-
-Just tell me 👍
